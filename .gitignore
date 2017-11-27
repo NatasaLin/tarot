@@ -1,0 +1,5 @@
+node_modules/
+*.scss
+README.md
+package.json
+gulpfile.js
